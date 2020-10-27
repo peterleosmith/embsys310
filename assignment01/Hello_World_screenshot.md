@@ -1,4 +1,1 @@
-![Hello_World_screenshot]
-(/assignment01/Hello_World_screenshot.png)
-
-Format: ![Alt Text](url)
+Output for question 2: ![Hello](Hello_World_screenshot.png)

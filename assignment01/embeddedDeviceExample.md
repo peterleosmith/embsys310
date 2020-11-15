@@ -16,5 +16,5 @@ Here are just some of the challenges that a designer of a wireless speaker could
  ##### Reliability
  A wireless speaker that frequently disconnects from its audio input will end up in the garbage.  Once connected, the device must reliably hold the connection. Since speakers only have a couple buttons for user interaction, the user cannot address any errors, so the software must work reliably.
 
- ### Cost
+ ##### Cost
  As a consumer good, cost is vital.  The speaker itself may be an unavoidably expensive component, so the rest of the device must be designed to limit the cost.
